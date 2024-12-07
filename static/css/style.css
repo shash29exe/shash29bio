@@ -1,6 +1,6 @@
 @font-face {
     font-family: "shash29";
-    src: url("/static/fonts/shash29.ttf");
+    src: url("../fonts/shash29.ttf");
   }
   
 .video-background {
