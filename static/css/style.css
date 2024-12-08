@@ -1,3 +1,6 @@
+* {
+    cursor: url(https://cur.cursors-4u.net/symbols/sym-1/sym54.cur), auto !important;
+}
 @font-face {
     font-family: "shash29";
     src: url("../fonts/shash29.ttf");
@@ -33,7 +36,6 @@ body {
     font-family: shash29;
     font-size: 60px;
     user-select: none;
-    cursor: url(https://cur.cursors-4u.net/symbols/sym-1/sym54.cur), auto !important;
 }
 
 .links {
