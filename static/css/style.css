@@ -5,7 +5,9 @@
     font-family: "shash29";
     src: url("../fonts/shash29.ttf");
   }
-  
+
+::-webkit-scrollbar {width: 0px !important;}
+
 .video-background {
     position: fixed;
     right: 0;
